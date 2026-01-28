@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Large artifacts
+models/*.joblib
+
+# Optional: raw data (uncomment if you don't want to commit CSV)
+# data/raw/
